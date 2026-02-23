@@ -23,4 +23,4 @@ jobs:
       run: cmake --build build --config Release
 
     - name: Run executable
-      run: ./build/CI-CD.exe
+      run: ./build/Debug/CI-CD.exe
