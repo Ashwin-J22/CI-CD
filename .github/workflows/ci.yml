@@ -23,4 +23,4 @@ jobs:
       run: cmake --build build --config Release
 
     - name: Run executable
-      run: ./build/Release/MyApp.exe
+      run: ./build/Release/CI-CD.exe
