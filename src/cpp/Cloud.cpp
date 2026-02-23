@@ -12,5 +12,6 @@ using namespace std;
 
 int CloudFountation()
 {
-	cout << "Cloud" << endl;
+    cout << "Cloud" << endl;
+    return 0;
 }

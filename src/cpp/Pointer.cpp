@@ -12,5 +12,6 @@ using namespace std;
 
 int PointerMain()
 {
-	cout << "sad" << endl;
+    cout << "Pointer" << endl;
+    return 0;
 }
