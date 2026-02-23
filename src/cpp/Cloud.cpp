@@ -10,7 +10,7 @@
 #include "CheckCICD.h"
 using namespace std;
 
-int main()
+int CloudFountation()
 {
 	cout << "Cloud" << endl;
 }
